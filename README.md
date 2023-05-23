@@ -25,12 +25,19 @@ Multipass makes running Ubuntu virtual machines fast and easy.
 ## References
 
 [Multipass](https://multipass.run)
+
 [Multipass Documentation](https://multipass.run/docs)
+
 [Install Multipass](https://multipass.run/install)
+
 [How to install Multipass on macOS](https://multipass.run/docs/installing-on-macos)
+
 [Using cloud-init with Multipass](https://ubuntu.com/blog/using-cloud-init-with-multipass)
+
 [Multipass Tutorial: MacOS](https://multipass.run/docs/mac-tutorial)
+
 [Multipass: GitHub Repository](https://github.com/canonical/multipass)
+
 [Homebrew](brew.sh)
 
 ## Prerequisites
@@ -318,6 +325,7 @@ No instances found.
 If you'd like to dig a little deeper into running instances using Multipass, here are some good resources:
 
 [Using cloud-init with Multipass](https://ubuntu.com/blog/using-cloud-init-with-multipass)
+
 [Multipass Tutorial: MacOS](https://multipass.run/docs/mac-tutorial)
 
 ## Summary
