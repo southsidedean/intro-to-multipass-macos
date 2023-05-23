@@ -1,9 +1,6 @@
-# Introduction to Multipass on MacOS
+# Getting Started With Multipass on MacOS
 
 ***Tom Dean - 1/23/23***
-
-###### tags: `MacOS`, `Docker`, `Podman`, `Multipass`, `cloud-init`, `virtualization`, `Apple`, `Silicon`, `Intel`, `Homebrew`, `Kubernetes`, `Ubuntu`
-
 ## Introduction
 
 Wouldn't it be nice if you could have your own personal mini-cloud running in the confines of your Mac?  Now you can, thanks to Multipass!
@@ -23,6 +20,8 @@ Multipass makes running Ubuntu virtual machines fast and easy.
 ***Let's see how we set it up!***
 
 ## References
+
+[GitHub: Getting Started With Multipass on MacOS](https://github.com/southsidedean/intro-to-multipass-macos)
 
 [Multipass](https://multipass.run)
 
